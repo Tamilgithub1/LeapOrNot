@@ -14,8 +14,8 @@ public static void main(String[] args) {
 		flag=false;
 	}
 	if(flag) 
-		System.out.println("LEAP YEAR");
+		System.out.println("YES");
 	else
-		System.out.println("NON-LEAP YEAR");
+		System.out.println("NO");
 }
 }
